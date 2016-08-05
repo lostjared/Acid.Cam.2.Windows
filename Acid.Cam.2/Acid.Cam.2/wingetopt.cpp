@@ -1,4 +1,6 @@
+// Found this code in Google
 #ifndef __GNUC__
+
 
 
 #include "wingetopt.h"
